@@ -7,8 +7,8 @@ Take a quick look on this data, and you'll see the following section:
 
 See that only row 5 contains the actual field names.
 
-Pandas a
+Pandas' `read_csv()` function omits the empty lines be
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczOTQ2MTMxMiwtOTExOTQ4NTIsLTEyMD
-cwOTI3NjRdfQ==
+eyJoaXN0b3J5IjpbMjc4MjIxNDYsLTkxMTk0ODUyLC0xMjA3MD
+kyNzY0XX0=
 -->
