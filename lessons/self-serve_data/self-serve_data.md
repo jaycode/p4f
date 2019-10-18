@@ -8,7 +8,11 @@ Take a quick look on this data, and you'll see the following section:
 See that only row 5 contains the actual field names.
 
 Pandas' `read_csv()` function omits empty lines before the actual header, and it has a parameter to manually omit the rest of the headers. In this case, `header=2` will omit the first and third rows and will correctly use the fifth row as the field names.
+
+To check if we correctly extracted the field names, you may run something like `print(data.info())`
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzEyNTgzMzMsLTkxMTk0ODUyLC0xMj
-A3MDkyNzY0XX0=
+eyJoaXN0b3J5IjpbLTkyODQ1NTYxNCwtOTExOTQ4NTIsLTEyMD
+cwOTI3NjRdfQ==
 -->
