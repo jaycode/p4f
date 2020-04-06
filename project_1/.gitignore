@@ -1,3 +1,4 @@
+*.pyc
 *.csv
 !test1.csv
 !test2.csv
